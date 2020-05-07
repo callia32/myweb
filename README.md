@@ -26,7 +26,7 @@
         </button>
         <ul class="dropdown-menu" >
             <li><a href="2.html">1주차</a></li>
-            <li><a href="#">2주차</a></li>
+            <li><a href="2-2.html">2주차</a></li>
         </ul>
     </div>
     <button type="button" class="btn btn-info margin-left" onclick="location.href='3.html'">기타</button>
